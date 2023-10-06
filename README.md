@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Luke Friedrichs</h1>
 <h3 align="center">Always open to learn something new:)</h3>
 
-- 🔭 I’m currently working on Vizweb (https://github.com/LckyLke/vizweb)
+- 🔭 I’m currently working on nothing (unemployed)
 
-- 🌱 I’m currently learning **Next.js and Express.js!**
+- 🌱 I’m currently learning nothing
 
 - 👯 I’m looking to collaborate on **anything!**
 
 - 👨‍💻 All of my projects are available at (coming soon...)
 
-- 📝 I regularly write articles on (might come soon...)
-
 - 💬 Ask me about **react, javascript or anything else:)**
 
 - 📫 How to reach me **lukefriedrichs@gmail.com**
 
-- 📄 Know about my experiences (coming soon...)
+- 📄 Know about my experiences (none)
 
 
 <h3 align="left">Languages and Tools:</h3>
